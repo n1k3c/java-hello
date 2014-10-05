@@ -1,0 +1,6 @@
+package nikola;
+
+class tuna {
+
+	
+}
